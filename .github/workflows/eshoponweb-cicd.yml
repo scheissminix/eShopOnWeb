@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 63880b48-bb62-41d7-89f0-5ec2a7386c2d
-  WEBAPP-NAME: studentlqo5t_website
+  WEBAPP-NAME: studentlqo5t-website
 
 
 jobs:
